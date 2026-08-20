@@ -1,0 +1,118 @@
+{"id": "7b010822-c644-480f-9747-95e0b6109628", "timestamp": "2026-08-19T21:16:48.856366", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.9904, "category": "Admission"}
+{"type": "feedback", "id": "7b010822-c644-480f-9747-95e0b6109628", "timestamp": "2026-08-19T21:16:48.861422", "helpful": true}
+{"id": "b8af70aa-9b4a-4779-af89-45dd9c098be4", "timestamp": "2026-08-19T21:17:50.783496", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9731, "category": "Eligibility"}
+{"id": "2fa9b474-0bac-4919-bcb7-fbd00ec090e2", "timestamp": "2026-08-19T21:18:00.545520", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9975, "category": "Exam Schedule"}
+{"id": "981c22d8-6d40-459c-b398-5a9fead6334b", "timestamp": "2026-08-19T21:18:04.784042", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 0.9987, "category": "Hostel"}
+{"id": "1605ddd8-e38f-427d-a7f2-aa30a48261ff", "timestamp": "2026-08-19T21:18:07.984482", "query": "What are the library timings and book rules?", "intent": "library", "confidence": 0.9921, "category": "Library"}
+{"id": "da1608bb-61b6-4a72-9a1c-c599f309a01f", "timestamp": "2026-08-19T21:18:10.819892", "query": "What are the placement opportunities?", "intent": null, "confidence": 0.1773, "category": "Uncertain"}
+{"id": "f68ce666-354a-4bf7-aa1a-fca97876e0a5", "timestamp": "2026-08-19T21:19:18.312162", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 0.9838, "category": "Fees"}
+{"id": "860fbdce-485a-4cee-af19-b86919ee44f3", "timestamp": "2026-08-19T21:19:20.616604", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9975, "category": "Exam Schedule"}
+{"id": "65441fb1-7887-4826-a811-14a225e741f4", "timestamp": "2026-08-19T21:22:41.408017", "query": "What are the placement opportunities?", "intent": null, "confidence": 0.1773, "category": "Uncertain"}
+{"id": "4ba63b46-72c7-428f-8567-e8ae721e5557", "timestamp": "2026-08-19T21:22:50.109975", "query": "What are the library timings and book rules?", "intent": "library", "confidence": 0.9921, "category": "Library"}
+{"id": "b86974bc-a7bf-429f-adb1-f8f7147f3d4b", "timestamp": "2026-08-19T21:22:55.427495", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 0.9987, "category": "Hostel"}
+{"id": "a5d5e86f-8755-4dcd-a2af-261015341abe", "timestamp": "2026-08-19T21:23:04.271583", "query": "addimission", "intent": null, "confidence": 0.0837, "category": "Uncertain"}
+{"id": "2c6b1aae-2306-4d3b-a229-d6815cd52578", "timestamp": "2026-08-19T21:23:19.181259", "query": "admissions", "intent": null, "confidence": 0.3466, "category": "Uncertain"}
+{"id": "6e322df8-a9e4-402d-b423-f9f092f40cb6", "timestamp": "2026-08-19T21:25:56.211388", "query": "What are the placement opportunities?", "intent": null, "confidence": 0.1773, "category": "Uncertain"}
+{"id": "0f093917-47d8-4d95-9a4c-dc9f5fc0b30b", "timestamp": "2026-08-19T21:27:03.350174", "query": "What are the placement opportunities?", "intent": null, "confidence": 0.1773, "category": "Uncertain"}
+{"id": "a09c7dab-f063-4222-89f9-fb8bcebfefef", "timestamp": "2026-08-19T21:31:15.352403", "query": "What are the placement opportunities", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "9f264fa1-239e-4c3d-8e07-d31c142d99ee", "timestamp": "2026-08-19T21:31:37.075821", "query": "What are the placement opportunities", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "61465700-55c0-4902-a5ba-4127bce47ba9", "timestamp": "2026-08-19T21:31:37.093735", "query": "placements", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "c225d8cd-d1e5-4636-a6b2-45e449d30281", "timestamp": "2026-08-19T21:31:37.112272", "query": "adimission", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "d309907d-cb22-43be-858f-c56722e0d631", "timestamp": "2026-08-19T21:31:37.134982", "query": "hostel mess fees", "intent": "hostel", "confidence": 0.8383, "category": "Hostel"}
+{"id": "a60424a8-74d0-4821-9083-cfc89eea2f27", "timestamp": "2026-08-19T21:31:37.159365", "query": "exam timetable", "intent": "exam_schedule", "confidence": 0.7125, "category": "Exam Schedule"}
+{"id": "b78809eb-43ba-403d-a163-0af86a7cb6d7", "timestamp": "2026-08-19T21:31:37.179022", "query": "scholarship eligibility", "intent": "scholarships", "confidence": 0.7667, "category": "Scholarships"}
+{"id": "d0a736ca-c872-473a-9ec2-0973ced2dea3", "timestamp": "2026-08-19T21:31:37.196638", "query": "library book lending rules", "intent": "library", "confidence": 0.7452, "category": "Library"}
+{"id": "8e576d18-bc0a-4970-a9bd-5c41e5fc6a75", "timestamp": "2026-08-19T21:33:10.143429", "query": "What are the placement opportunities", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "53bb89c5-e612-4b46-be92-bbb2f772275b", "timestamp": "2026-08-19T21:33:10.175049", "query": "placements", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "61b5aa76-1778-47c3-b6e7-b86eca8d17bf", "timestamp": "2026-08-19T21:33:10.208379", "query": "adimission", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "dc37f1b4-a5da-42a1-973a-65b5b7628117", "timestamp": "2026-08-19T21:33:10.244372", "query": "hostel mess fees", "intent": "hostel_fees", "confidence": 0.8974, "category": "Hostel Fees"}
+{"id": "f1f177e8-e423-4cfd-8659-dd51a7d5581d", "timestamp": "2026-08-19T21:33:10.265563", "query": "exam timetable", "intent": "exam_schedule", "confidence": 0.7125, "category": "Exam Schedule"}
+{"id": "01a9fff5-9dca-4761-b625-8f1c9d189048", "timestamp": "2026-08-19T21:33:10.297610", "query": "scholarship eligibility", "intent": "scholarships", "confidence": 0.7667, "category": "Scholarships"}
+{"id": "a795b9f1-f75b-4044-a7db-8b3f1220ae96", "timestamp": "2026-08-19T21:33:10.324683", "query": "library book lending rules", "intent": "library", "confidence": 0.7452, "category": "Library"}
+{"id": "432942a7-c0e9-4682-a2aa-bc1d0105702e", "timestamp": "2026-08-19T21:33:36.000337", "query": "What are the placement opportunities", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "33f3d542-f92a-4fd8-b740-052e222460cb", "timestamp": "2026-08-19T21:33:36.047818", "query": "placements", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "8b42a48e-03f6-4be7-abf8-7bac99c61004", "timestamp": "2026-08-19T21:33:36.101777", "query": "adimission", "intent": "admission", "confidence": 0.9621, "category": "Admission"}
+{"id": "53c05a57-c945-4b10-8344-5c3a01210377", "timestamp": "2026-08-19T21:33:36.195450", "query": "addmision", "intent": "admission", "confidence": 0.9621, "category": "Admission"}
+{"id": "4d0bf43b-90f3-4fa2-8684-5d6c3fdac686", "timestamp": "2026-08-19T21:33:36.290084", "query": "hostel mess fees", "intent": "hostel_fees", "confidence": 0.8974, "category": "Hostel Fees"}
+{"id": "52db61c2-b4ee-4510-9147-107538916bc2", "timestamp": "2026-08-19T21:33:36.354121", "query": "exam timetable", "intent": "exam_schedule", "confidence": 0.7125, "category": "Exam Schedule"}
+{"id": "2d7ef05c-014b-45fc-921d-f2ac2b57303d", "timestamp": "2026-08-19T21:33:36.402684", "query": "scholarship eligibility", "intent": "scholarships", "confidence": 0.7667, "category": "Scholarships"}
+{"id": "59e63454-7b63-442f-a6d6-ae9ea267e58e", "timestamp": "2026-08-19T21:33:36.449957", "query": "library book lending rules", "intent": "library", "confidence": 0.7452, "category": "Library"}
+{"id": "39eddb99-337f-4aa4-9fe8-b5148da11686", "timestamp": "2026-08-19T21:33:52.186828", "query": "What are the library timings and book rules?", "intent": "library", "confidence": 0.9739, "category": "Library"}
+{"id": "5a5af351-5604-449e-ae02-df4367d2dcaa", "timestamp": "2026-08-19T21:33:54.231417", "query": "What are the placement opportunities?", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "f4de0c39-0c7a-4c65-82e1-6ebd6405acb1", "timestamp": "2026-08-19T21:33:59.658962", "query": "Are scholarships available for students?", "intent": "scholarships", "confidence": 0.98, "category": "Scholarships"}
+{"id": "d89b9068-3743-4049-ab47-50058bd2f7ed", "timestamp": "2026-08-19T21:34:02.033593", "query": "How can I contact the student helpdesk?", "intent": "contact_information", "confidence": 0.9806, "category": "Contact Information"}
+{"id": "bc8039c5-f427-4b9f-ad88-5c0d1042b7f0", "timestamp": "2026-08-19T21:34:10.018498", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 0.9811, "category": "Hostel"}
+{"id": "19d1f600-b481-476e-bb85-561590c6fb3e", "timestamp": "2026-08-19T21:34:13.970568", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.9616, "category": "Admission"}
+{"id": "3917e275-7d2a-46f5-a450-b117060afbdd", "timestamp": "2026-08-19T21:34:21.542543", "query": "mca", "intent": "courses", "confidence": 0.9742, "category": "Courses"}
+{"id": "31941272-7bea-4ae8-8141-8027f45fcfb2", "timestamp": "2026-08-19T21:34:28.369106", "query": "msc", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "54f76dec-50b6-429f-8145-e84dc9c124d6", "timestamp": "2026-08-19T21:34:44.148719", "query": "B.tech", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "98d203c8-093d-469c-9412-60665200e9de", "timestamp": "2026-08-19T21:34:47.371275", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9695, "category": "Eligibility"}
+{"id": "d997257b-efde-4fb8-96e1-15a6474eb430", "timestamp": "2026-08-19T21:34:50.229467", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 0.9806, "category": "Fees"}
+{"id": "07a52152-0a01-4bda-92bd-51197122d2de", "timestamp": "2026-08-19T21:34:51.760180", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9695, "category": "Eligibility"}
+{"id": "047fae8f-c5af-4417-911c-66f50ee3e174", "timestamp": "2026-08-19T21:35:08.748803", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 0.9806, "category": "Fees"}
+{"id": "857b6df9-ee5d-4f1f-83de-f3ea2bba6b52", "timestamp": "2026-08-19T21:36:11.688380", "query": "What UG courses are offered like B.Tech, BBA, BSc?", "intent": "courses", "confidence": 0.9772, "category": "Courses"}
+{"id": "43b7ebec-9b0d-4935-9294-df29383df89e", "timestamp": "2026-08-19T21:36:11.760421", "query": "B.Tech admission eligibility", "intent": "eligibility", "confidence": 0.9256, "category": "Eligibility"}
+{"id": "5fe86307-6f12-4093-9f7f-7d5cb666d8f4", "timestamp": "2026-08-19T21:36:11.818617", "query": "BBA course details", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "ed4c3970-1f54-4d4a-a078-c036a611c7a8", "timestamp": "2026-08-19T21:36:11.842406", "query": "BSc courses", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "ff7883a2-ac83-42c2-a0e7-69868b0a5b91", "timestamp": "2026-08-19T21:36:11.873352", "query": "MSc programs", "intent": "application", "confidence": 0.9723, "category": "Application"}
+{"id": "5db41507-c3f9-46ee-a1a2-47be3fe14771", "timestamp": "2026-08-19T21:36:11.894962", "query": "ug also b tech and bba bsc msc", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "3be8e7af-6cd5-44ba-9135-9826b1bc0e94", "timestamp": "2026-08-19T21:37:37.487168", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9695, "category": "Eligibility"}
+{"id": "52c19ab2-9a3f-432c-98ce-1d7238a8b4c0", "timestamp": "2026-08-19T21:37:40.160211", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9793, "category": "Exam Schedule"}
+{"id": "deb0c3b3-5056-41a1-b71f-45da1daac650", "timestamp": "2026-08-19T21:37:42.077263", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 0.9811, "category": "Hostel"}
+{"id": "68243658-ba29-4cd6-9096-fc97d9e97bdd", "timestamp": "2026-08-19T21:37:52.580696", "query": "fees", "intent": "fees", "confidence": 0.9441, "category": "Fees"}
+{"id": "75c767d0-d283-4049-b5dc-2fac6a59464b", "timestamp": "2026-08-19T21:38:06.033045", "query": "b.sc", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "96899f27-8f6d-492e-a95f-4afaa0d79446", "timestamp": "2026-08-19T21:40:23.174910", "query": "ug also b,tech,and bba,bsc,msc", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "9ad7a04c-6082-4320-ac33-0ef236a6629b", "timestamp": "2026-08-19T21:40:23.203914", "query": "What UG courses are offered like B.Tech, BBA, BSc?", "intent": "courses", "confidence": 0.9772, "category": "Courses"}
+{"id": "0d1f1a2b-571a-4dbc-9aeb-fec28c384c5d", "timestamp": "2026-08-19T21:40:23.235630", "query": "B.Tech admission eligibility", "intent": "eligibility", "confidence": 0.9256, "category": "Eligibility"}
+{"id": "c1c2f8ff-c5e0-45bb-9e53-b7e5d86706ef", "timestamp": "2026-08-19T21:40:23.264933", "query": "BBA course details", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "e733a994-b043-4964-8af2-29aff6df454b", "timestamp": "2026-08-19T21:40:23.288214", "query": "BSc courses", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "53b1db7e-64fc-433f-99f1-75ce01a4cc09", "timestamp": "2026-08-19T21:40:23.316832", "query": "MSc programs", "intent": "application", "confidence": 0.9723, "category": "Application"}
+{"id": "2b38c3e3-fe14-4e20-a33c-319a6b016f51", "timestamp": "2026-08-19T21:40:23.341936", "query": "eligibility for B.Tech", "intent": "eligibility", "confidence": 0.9695, "category": "Eligibility"}
+{"id": "40ca7979-23e8-4d3f-9228-ba95ce0a94cb", "timestamp": "2026-08-19T21:40:23.369739", "query": "fees for BBA", "intent": "fees", "confidence": 0.9441, "category": "Fees"}
+{"id": "1af7bd5b-24ae-466d-a953-80d76755dc55", "timestamp": "2026-08-19T21:43:30.640369", "query": "ug also b,tech,and bba,bsc,msc", "intent": null, "confidence": 0.0859, "category": "Uncertain"}
+{"id": "c2b60731-c7c9-4e32-a711-1eaf053734ee", "timestamp": "2026-08-19T21:43:30.656492", "query": "What UG courses are offered like B.Tech, BBA, BSc?", "intent": "courses", "confidence": 0.9772, "category": "Courses"}
+{"id": "231c2805-863c-4b52-89f1-98e4ea0fda2a", "timestamp": "2026-08-19T21:43:30.676715", "query": "B.Tech admission eligibility", "intent": "eligibility", "confidence": 0.9256, "category": "Eligibility"}
+{"id": "9242d134-768d-4e9a-8363-7de48f4d6bc6", "timestamp": "2026-08-19T21:43:30.691926", "query": "BBA course details", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "3fd89bc4-d84f-4d51-b388-92608eeab110", "timestamp": "2026-08-19T21:43:30.712266", "query": "BSc courses", "intent": "greeting", "confidence": 0.9673, "category": "Greeting"}
+{"id": "20ba40ef-ca29-4c41-9ebe-968349de343f", "timestamp": "2026-08-19T21:43:30.730220", "query": "MSc programs", "intent": "application", "confidence": 0.9723, "category": "Application"}
+{"id": "ee97c806-9490-4d7e-a87a-a54d686f96af", "timestamp": "2026-08-19T21:43:30.750820", "query": "eligibility for B.Tech", "intent": "eligibility", "confidence": 0.9695, "category": "Eligibility"}
+{"id": "f91af210-6524-4b80-ace4-f8cfb32dc412", "timestamp": "2026-08-19T21:43:30.768344", "query": "fees for BBA", "intent": "fees", "confidence": 0.9441, "category": "Fees"}
+{"id": "8c9f19c3-ab37-462c-9198-bbb4cdd237fe", "timestamp": "2026-08-19T21:43:30.790663", "query": "placements", "intent": "placements", "confidence": 0.9788, "category": "Placements"}
+{"id": "3b9e875c-a4fe-4fd0-a268-25925baa9642", "timestamp": "2026-08-19T21:44:48.174028", "query": "ug also b,tech,and bba,bsc,msc", "intent": "courses", "confidence": 0.7633, "category": "Courses"}
+{"id": "bf00ea5f-eeae-4125-ba75-ceb6088e7ec5", "timestamp": "2026-08-19T21:44:48.245736", "query": "What UG courses are offered like B.Tech, BBA, BSc?", "intent": "courses", "confidence": 0.9967, "category": "Courses"}
+{"id": "1801c373-0902-40c2-8b31-f9045f78dfed", "timestamp": "2026-08-19T21:44:48.313087", "query": "B.Tech admission eligibility", "intent": "eligibility", "confidence": 0.8843, "category": "Eligibility"}
+{"id": "e71d57c3-9b3b-4115-8309-a8a6b31cbad0", "timestamp": "2026-08-19T21:44:48.382604", "query": "BBA course details", "intent": "courses", "confidence": 0.7833, "category": "Courses"}
+{"id": "35955087-3f15-4a8f-80a9-ca08dbb4a464", "timestamp": "2026-08-19T21:44:48.450587", "query": "BSc courses", "intent": "courses", "confidence": 0.94, "category": "Courses"}
+{"id": "3bf2571b-54c6-4ab8-ad09-081324fdea2f", "timestamp": "2026-08-19T21:44:48.541283", "query": "MSc programs", "intent": "courses", "confidence": 0.7933, "category": "Courses"}
+{"id": "206db142-8fa6-4f9d-9887-9f6f2c494d66", "timestamp": "2026-08-19T21:44:48.613584", "query": "eligibility for B.Tech", "intent": "eligibility", "confidence": 0.7667, "category": "Eligibility"}
+{"id": "ca916d16-ac2c-458f-88b4-f624a879d747", "timestamp": "2026-08-19T21:44:48.735359", "query": "fees for BBA", "intent": "fees", "confidence": 0.5, "category": "Fees"}
+{"id": "530c19e1-fbf3-43fd-8281-6a12c8819325", "timestamp": "2026-08-19T21:44:48.857314", "query": "What are the placement opportunities", "intent": "placements", "confidence": 1.0, "category": "Placements"}
+{"id": "769be966-eabe-4590-862a-cb12f331e8fc", "timestamp": "2026-08-19T21:45:02.442098", "query": "ug also b,tech,and bba,bsc,msc", "intent": "courses", "confidence": 0.7633, "category": "Courses"}
+{"id": "373ae7d0-726a-4428-b3e4-28c152943f00", "timestamp": "2026-08-19T21:45:21.016615", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9867, "category": "Eligibility"}
+{"id": "f8f55cd3-c8aa-45c3-90ee-0fe9a1f2fb31", "timestamp": "2026-08-19T21:45:30.277895", "query": "bsc", "intent": "courses", "confidence": 0.4267, "category": "Courses"}
+{"id": "a6bb7f44-bfc2-4f88-8f65-71cc7ec7a768", "timestamp": "2026-08-19T21:45:54.395899", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9867, "category": "Eligibility"}
+{"id": "68db4de3-d15f-4c8c-b092-06126110e8d2", "timestamp": "2026-08-19T21:45:55.743068", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.764, "category": "Admission"}
+{"id": "79af19f8-8bc6-49c2-9270-179daf1ace97", "timestamp": "2026-08-19T21:46:02.749503", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 1.0, "category": "Fees"}
+{"id": "d5d31e8a-284c-47ac-958f-3daebbd189ee", "timestamp": "2026-08-19T21:46:07.662727", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9967, "category": "Exam Schedule"}
+{"id": "c03c1197-621e-4ab7-9c96-4f3f8a5d408d", "timestamp": "2026-08-19T21:46:12.673578", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 1.0, "category": "Hostel"}
+{"id": "a13801ff-56d4-4aac-ab81-98df539691bc", "timestamp": "2026-08-19T21:46:16.153992", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 1.0, "category": "Hostel"}
+{"id": "37899b0b-60a1-42da-97d4-ba13d316324b", "timestamp": "2026-08-19T21:46:19.845129", "query": "What are the library timings and book rules?", "intent": "library", "confidence": 0.69, "category": "Library"}
+{"id": "e0def14c-0d8b-4794-8c63-4a88ad3caf5f", "timestamp": "2026-08-19T21:46:24.629282", "query": "What are the placement opportunities?", "intent": "placements", "confidence": 1.0, "category": "Placements"}
+{"id": "5b06e58f-a6d5-4998-80bd-c469c649f649", "timestamp": "2026-08-19T21:46:28.741922", "query": "Are scholarships available for students?", "intent": "scholarships", "confidence": 1.0, "category": "Scholarships"}
+{"id": "1259da1d-39a1-4acd-bc04-6abbeaaae874", "timestamp": "2026-08-19T21:46:31.249772", "query": "How can I contact the student helpdesk?", "intent": "contact_information", "confidence": 1.0, "category": "Contact Information"}
+{"id": "723473f6-369c-47e1-a4b0-5aa12daab020", "timestamp": "2026-08-19T21:46:50.699389", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.764, "category": "Admission"}
+{"id": "ac885acc-3a9c-4fc2-9a97-a2d898e2c1fd", "timestamp": "2026-08-19T21:46:54.001229", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9867, "category": "Eligibility"}
+{"id": "63da0114-7c30-485d-b1c0-a26427fcb066", "timestamp": "2026-08-19T21:46:56.399796", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 1.0, "category": "Fees"}
+{"id": "7040f5d2-4c0c-4769-8d8f-269fbfe43c62", "timestamp": "2026-08-19T21:46:58.430388", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9967, "category": "Exam Schedule"}
+{"id": "38abcc25-e9b4-4813-824e-1515ff70cc0f", "timestamp": "2026-08-19T22:02:21.501204", "query": "semester", "intent": "greeting", "confidence": 0.4, "category": "Greeting"}
+{"id": "8fe3a88f-17ad-4f31-99ad-597ae09d48d4", "timestamp": "2026-08-19T22:05:52.095060", "query": "What is the eligibility criteria?", "intent": "eligibility", "confidence": 0.9867, "category": "Eligibility"}
+{"id": "6448178c-8408-441d-bd1b-5741a6bce38d", "timestamp": "2026-08-19T22:05:54.020238", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.764, "category": "Admission"}
+{"id": "c594d1a2-9488-438a-ae1f-eff5dc193b49", "timestamp": "2026-08-19T22:05:58.596221", "query": "How can I pay my tuition fees?", "intent": "fees", "confidence": 1.0, "category": "Fees"}
+{"id": "1723be33-d3c1-40b6-af6a-c9293bd03d43", "timestamp": "2026-08-19T22:06:00.083200", "query": "When is the exam schedule published?", "intent": "exam_schedule", "confidence": 0.9967, "category": "Exam Schedule"}
+{"id": "8b9a0444-83a0-4ec1-a048-f397e05d6e21", "timestamp": "2026-08-19T22:06:01.377933", "query": "How to apply for hostel room?", "intent": "hostel", "confidence": 1.0, "category": "Hostel"}
+{"id": "04aea3a2-bd2b-4ac9-a1a4-cec81f0a3358", "timestamp": "2026-08-19T22:06:02.808533", "query": "What are the library timings and book rules?", "intent": "library", "confidence": 0.69, "category": "Library"}
+{"id": "60b7b239-40dd-4267-9dd5-124f4919af8f", "timestamp": "2026-08-19T22:06:04.446618", "query": "What are the placement opportunities?", "intent": "placements", "confidence": 1.0, "category": "Placements"}
+{"id": "11ca921d-2a71-436b-8178-1056dc1b2d32", "timestamp": "2026-08-19T22:06:07.244788", "query": "What are the placement opportunities?", "intent": "placements", "confidence": 1.0, "category": "Placements"}
+{"id": "82fc50b8-32b9-446d-bfd0-f7ecd6ddec8b", "timestamp": "2026-08-19T22:06:14.265755", "query": "Are scholarships available for students?", "intent": "scholarships", "confidence": 1.0, "category": "Scholarships"}
+{"id": "3f29d91f-741b-4689-9ee1-b497d336cbf6", "timestamp": "2026-08-19T22:06:22.564095", "query": "How can I contact the student helpdesk?", "intent": "contact_information", "confidence": 1.0, "category": "Contact Information"}
+{"id": "31c3bca9-a37d-4e69-a34b-b0b3afd3a7ab", "timestamp": "2026-08-19T22:06:27.776263", "query": "How do I apply for new admission?", "intent": "admission", "confidence": 0.764, "category": "Admission"}

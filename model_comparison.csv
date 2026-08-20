@@ -1,0 +1,5 @@
+model,test_accuracy,macro_f1,cv_accuracy_5fold,train_time_sec
+RandomForest,0.9897,0.9897,0.992,6.77
+LinearSVC,0.9877,0.9877,0.9906,1.66
+LogisticRegression,0.9872,0.9872,0.9906,6.38
+MultinomialNB,0.9848,0.9846,0.9868,0.05
